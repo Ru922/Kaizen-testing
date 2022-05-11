@@ -1,0 +1,9 @@
+{
+    "loginBtn": "a.btn-nav > .btn-nav",
+    "userInput": "#usuario",
+    "passInput": "#contraseña",
+    "IngresarBtn": "button",
+    "bienvenidoSing": "label",
+    "logout": ".btn-nav",
+    "logoutSing":".title > p"
+}

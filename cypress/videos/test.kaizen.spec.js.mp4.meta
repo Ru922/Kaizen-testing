@@ -1,0 +1,16 @@
+;FFMETADATA1
+[CHAPTER]
+TIMEBASE=1/1000
+START=-2490
+END=7426
+title=Tests Registration test
+[CHAPTER]
+TIMEBASE=1/1000
+START=9647
+END=17350
+title=Tests Log in test
+[CHAPTER]
+TIMEBASE=1/1000
+START=17441
+END=25060
+title=Tests Log in fail test

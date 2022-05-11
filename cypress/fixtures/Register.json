@@ -1,0 +1,11 @@
+{
+    "registerBtn": "[href='/createUser'] > .btn-nav",
+    "userInput": ":nth-child(2) > .regular-style",
+    "nameInput": ":nth-child(4) > .regular-style",
+    "lastnameInput": ":nth-child(6) > .regular-style",
+    "emailInput": ":nth-child(8) > .regular-style",
+    "passInput": ":nth-child(10) > .regular-style",
+    "repearPassInput": ":nth-child(12) > .regular-style",
+    "register": ".regularButtonLogin"
+
+}
